@@ -12,8 +12,7 @@ gaechniy-klyuch/
 ├── orders.html
 ├── create.html
 ├── admin.html
-├── css/
-│   └── style.css
+├── style.css
 ├── img/
 └── README.md
 ```
